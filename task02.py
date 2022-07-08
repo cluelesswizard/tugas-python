@@ -51,7 +51,7 @@ z = cek("z")
 print("\n\t{}-----------------------{} Output Data {}-------------------------" .format(pu,rt,pu))
 
 # membuat variable hasil perkalikan x, y, dan z
-hasil = int(x) * int(y) * int(z)
+hasil = x * y * z
 
 # menampilkan output
 print("\n\t{}[{}√{}] Hasil dari perkalian {} * {} * {} =" .format(rt, gr, rt, x, y, z), hasil, rt)
