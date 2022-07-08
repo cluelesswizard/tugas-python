@@ -33,6 +33,6 @@ jurusan = input("\t{}[{}?{}] Masukkan jurusan anda : {}" .format(rt,yl,rt,lc))
 print("\n\t{}-----------------------{} Output Data {}-------------------------" .format(pu,rt,pu))
 
 # menampilkan output
-print("\n{}[{}√{}] Nama    : {}" .format(rt,gr,rt,yl) + nama)
+print("\n\t{}[{}√{}] Nama    : {}" .format(rt,gr,rt,yl) + nama)
 print("\t{}[{}√{}] Kelas   : {}" .format(rt,gr,rt,yl) + kelas)
 print("\t{}[{}√{}] Jurusan : {}" .format(rt,gr,rt,yl) + jurusan + rt)
