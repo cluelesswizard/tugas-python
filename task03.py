@@ -50,7 +50,7 @@ z = cek("z")
 # dekorasi
 print("\n\t{}-----------------------{} Output Data {}-------------------------" .format(pu,rt,pu))
 
-# membuat variable hasil perkalikan x, y, dan z
+# membuat variable hasil pembagian x, y, dan z
 hasil = x / y / z
 
 # menampilkan output
